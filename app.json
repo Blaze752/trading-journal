@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "SikhHub",
+    "slug": "sikhhub",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#F8F2E8"
+    },
+    "assetBundlePatterns": ["**/*"]
+  }
+}
