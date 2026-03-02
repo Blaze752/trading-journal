@@ -1,0 +1,1 @@
+// ai/adapter.js placeholder
